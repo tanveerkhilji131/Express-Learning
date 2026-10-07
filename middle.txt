@@ -1,0 +1,16 @@
+user req is POST user path is /users and user ip=::ffff:127.0.0.1
+user req is PUT user path is /users and user ip=::ffff:127.0.0.1
+user req is GET user path is /users and user ip=::ffff:127.0.0.1
+user req is DELETE user path is /users and user ip=::ffff:127.0.0.1
+user req is DELETE user path is /users and user ip=::ffff:127.0.0.1
+user req is GET user path is /users and user ip=::ffff:127.0.0.1
+user req is GET user path is /users and user ip=::ffff:127.0.0.1
+user req is GET user path is /users and user ip=::ffff:127.0.0.1
+user req is POST user path is /users and user ip=::ffff:127.0.0.1
+user req is POST user path is /users and user ip=::ffff:127.0.0.1
+user req is POST user path is /users and user ip=::ffff:127.0.0.1
+user req is POST user path is /users and user ip=::ffff:127.0.0.1
+user req is POST user path is /users and user ip=::ffff:127.0.0.1
+user req is POST user path is /users and user ip=::ffff:127.0.0.1
+user req is POST user path is /users and user ip=::ffff:127.0.0.1
+user req is POST user path is /users and user ip=::ffff:127.0.0.1
